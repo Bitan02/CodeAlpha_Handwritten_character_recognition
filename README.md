@@ -19,6 +19,15 @@ To build a machine learning model capable of accurately classifying grayscale im
 
 ---
 
+## 📦 Requirements
+
+> These libraries are pre-installed in Google Colab. If you're running locally, install them with the following:
+
+```bash
+pip install tensorflow matplotlib seaborn scikit-learn numpy
+
+---
+
 ## 🛠️ Tools & Technologies
 
 - **Python**
